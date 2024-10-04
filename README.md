@@ -12,22 +12,6 @@ A few years ago, I led a project to [modernize bookmark syncing in Firefox](http
 
 I dropped out of an English degree to write software professionally, and love connecting with other folks from non-traditional (and traditional!) backgrounds in tech.
 
-### 👀 Other fun facts about me
-
-* 🏃‍♀️ I’m a long-distance runner.
-* 🌉 I fall in love with just about every new city I visit, but San Francisco and the Bay Area are home.
-* 👩‍🍳 I’m a keen cook and baker, and love trying out new recipes.
-* ☕️ I was a tea drinker for a long time, but discovered I love coffee a few years ago.
-* 🛤️ I’m a civil engineering history nerd. My most recent read was _The Last Whistle_ by Jack R. Wagner, about the [Ocean Shore Railroad](https://en.wikipedia.org/wiki/Ocean_Shore_Railroad).
-
-### 📚 Books
-
-Some of my favorite authors are [Becky Chambers](https://www.otherscribbles.com/) (the _Wayfarers_ and _Monk and Robot_ series), [Isabel Allende](https://www.isabelallende.com/en) (_Daughter of Fortune_, _A Long Petal of the Sea_, _The Japanese Lover_, _The House of the Spirits_), [Jhumpa Lahiri](https://www.randomhouse.com/kvpa/jhumpalahiri/) (_The Namesake_, _Unaccustomed Earth_), [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) (_Les Misérables_), [Gary Kamiya](https://www.garykamiya.com/) (_Cool Gray City of Love_), [Martha Wells](https://www.marthawells.com/) (_The Murderbot Diaries_), and [N.K. Jemisin](https://nkjemisin.com/) (the _Broken Earth_ and _Great Cities_ series).
-
-If I had to recommend just one book, it would be _All About Love_ by [bell hooks](https://en.wikipedia.org/wiki/Bell_hooks).
-
-### 👩‍💻 Tech blogs I love
-
-[Molly White](https://www.citationneeded.news/), [Dan Luu](https://danluu.com/), [C J Silverio](https://blog.ceejbot.com/), [Julia Evans](https://jvns.ca/), [Chelsea Troy](https://chelseatroy.com/), [Michelle Tran](https://michtran.ca/), [Ryan Kelly](https://www.rfk.id.au/), [Kyle Kingsbury](https://aphyr.com/), [Marco Rogers](https://marcorogers.com/), [Coda Hale](https://codahale.com/)
+When I’m not at a keyboard, I spend my time running, cooking, and baking; reading poetry, novellas, and landscape histories; and exploring the beautiful San Mateo coast!
 
 Thanks for stopping by!
